@@ -1,10 +1,3 @@
-# CapstoneTwo documentation!
-
-## Description
-
-Capstone Two
-
-## Commands
-
-The Makefile contains the central entry points for common tasks related to this project.
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea97667e83d431548cf752d6436193206827affeba5eb57e33cc3ba50bfec52f
+size 163

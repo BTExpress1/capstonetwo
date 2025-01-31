@@ -1,21 +1,3 @@
-[packages]
-black = "*"
-flake8 = "*"
-ipython = "*"
-isort = "*"
-jupyterlab = "*"
-loguru = "*"
-matplotlib = "*"
-mkdocs = "*"
-notebook = "*"
-numpy = "*"
-pandas = "*"
-pip = "*"
-python-dotenv = "*"
-scikit-learn = "*"
-tqdm = "*"
-typer = "*"
-"capstonetwo" ={editable = true, path = "."}
-
-[requires]
-python_version = "3.13"
+version https://git-lfs.github.com/spec/v1
+oid sha256:e984658adfaeaf6c25c8165f86c17a7f5665518f7da6a3f156b73e1f81d8d5f8
+size 314
